@@ -1,0 +1,56 @@
+{
+  "Max Verstappen": {
+    "team": "Red Bull Racing",
+    "wins": 61,
+    "championships": 3,
+    "career_span": "2015-Present"
+  },
+  "Lewis Hamilton": {
+    "team": "Mercedes (Moving to Ferrari in 2025)",
+    "wins": 103,
+    "championships": 7,
+    "career_span": "2007-Present"
+  },
+  "Ayrton Senna": {
+    "team": "Williams (Last)",
+    "wins": 41,
+    "championships": 3,
+    "career_span": "1984-1994"
+  },
+  "Michael Schumacher": {
+    "team": "Mercedes (Last)",
+    "wins": 91,
+    "championships": 7,
+    "career_span": "1991-2006, 2010-2012"
+  },
+  "Sebastian Vettel": {
+    "team": "Aston Martin (Last)",
+    "wins": 53,
+    "championships": 4,
+    "career_span": "2007-2022"
+  },
+  "Alain Prost": {
+    "team": "Williams (Last)",
+    "wins": 51,
+    "championships": 4,
+    "career_span": "1980-1991, 1993"
+  },
+  "Charles Leclerc": {
+    "team": "Ferrari",
+    "wins": 7, // As of late 2024
+    "championships": 0,
+    "career_span": "2018-Present"
+  },
+  "Lando Norris": {
+    "team": "McLaren",
+    "wins": 3, // As of late 2024
+    "championships": 0,
+    "career_span": "2019-Present"
+  },
+  "Fernando Alonso": {
+    "team": "Aston Martin",
+    "wins": 32,
+    "championships": 2,
+    "career_span": "2001, 2003-2018, 2021-Present"
+  }
+}

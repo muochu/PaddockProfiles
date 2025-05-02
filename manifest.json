@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "F1 Driver Context",
+  "version": "0.1.0",
+  "description": "Highlights F1 driver names on web pages and shows career stats on hover.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["dist/content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+  // "background": { 
+  //   "service_worker": "dist/background.js", 
+  //   "type": "module" 
+  // },
+  // "action": { 
+  //   "default_popup": "public/popup.html" 
+  // }
+} 
