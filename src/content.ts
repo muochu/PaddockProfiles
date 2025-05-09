@@ -1,4 +1,10 @@
-import type { DriverStats } from './types';
+// Define the interface directly in this file
+interface DriverStats {
+  team: string;
+  wins: number;
+  championships: number;
+  career_span: string;
+}
 
 // --- Data Loading ---
 // We need to fetch the JSON data from the extension's context

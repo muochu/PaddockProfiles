@@ -37,13 +37,13 @@
   },
   "Charles Leclerc": {
     "team": "Ferrari",
-    "wins": 7, // As of late 2024
+    "wins": 7,
     "championships": 0,
     "career_span": "2018-Present"
   },
   "Lando Norris": {
     "team": "McLaren",
-    "wins": 3, // As of late 2024
+    "wins": 3, 
     "championships": 0,
     "career_span": "2019-Present"
   },
